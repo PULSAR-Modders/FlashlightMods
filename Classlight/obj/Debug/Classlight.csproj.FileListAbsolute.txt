@@ -1,0 +1,17 @@
+C:\Users\brave\Documents\GitHub\Pulsar-Plugins\Classlight\bin\Debug\Classlight.dll
+C:\Users\brave\Documents\GitHub\Pulsar-Plugins\Classlight\bin\Debug\Classlight.pdb
+C:\Users\brave\Documents\GitHub\Pulsar-Plugins\Classlight\bin\Debug\0Harmony.dll
+C:\Users\brave\Documents\GitHub\Pulsar-Plugins\Classlight\bin\Debug\ACTk.Runtime.dll
+C:\Users\brave\Documents\GitHub\Pulsar-Plugins\Classlight\bin\Debug\Assembly-CSharp.dll
+C:\Users\brave\Documents\GitHub\Pulsar-Plugins\Classlight\bin\Debug\PulsarPluginLoader.dll
+C:\Users\brave\Documents\GitHub\Pulsar-Plugins\Classlight\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\brave\Documents\GitHub\Pulsar-Plugins\Classlight\bin\Debug\UnityEngine.PhysicsModule.dll
+C:\Users\brave\Documents\GitHub\Pulsar-Plugins\Classlight\bin\Debug\UnityEngine.InputLegacyModule.dll
+C:\Users\brave\Documents\GitHub\Pulsar-Plugins\Classlight\bin\Debug\UnityEngine.ParticleSystemModule.dll
+C:\Users\brave\Documents\GitHub\Pulsar-Plugins\Classlight\bin\Debug\PLInputBase.dll
+C:\Users\brave\Documents\GitHub\Pulsar-Plugins\Classlight\bin\Debug\UnityEngine.VRModule.dll
+C:\Users\brave\Documents\GitHub\Pulsar-Plugins\Classlight\obj\Debug\Classlight.csprojAssemblyReference.cache
+C:\Users\brave\Documents\GitHub\Pulsar-Plugins\Classlight\obj\Debug\Classlight.csproj.CoreCompileInputs.cache
+C:\Users\brave\Documents\GitHub\Pulsar-Plugins\Classlight\obj\Debug\Classlight.csproj.CopyComplete
+C:\Users\brave\Documents\GitHub\Pulsar-Plugins\Classlight\obj\Debug\Classlight.dll
+C:\Users\brave\Documents\GitHub\Pulsar-Plugins\Classlight\obj\Debug\Classlight.pdb

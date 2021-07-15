@@ -1,0 +1,17 @@
+C:\Users\brave\Documents\GitHub\Pulsar-Plugins\Rainbowlisht\bin\Debug\Rainbowlisht.dll
+C:\Users\brave\Documents\GitHub\Pulsar-Plugins\Rainbowlisht\bin\Debug\Rainbowlisht.pdb
+C:\Users\brave\Documents\GitHub\Pulsar-Plugins\Rainbowlisht\bin\Debug\0Harmony.dll
+C:\Users\brave\Documents\GitHub\Pulsar-Plugins\Rainbowlisht\bin\Debug\Assembly-CSharp.dll
+C:\Users\brave\Documents\GitHub\Pulsar-Plugins\Rainbowlisht\bin\Debug\PulsarPluginLoader.dll
+C:\Users\brave\Documents\GitHub\Pulsar-Plugins\Rainbowlisht\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\brave\Documents\GitHub\Pulsar-Plugins\Rainbowlisht\bin\Debug\UnityEngine.PhysicsModule.dll
+C:\Users\brave\Documents\GitHub\Pulsar-Plugins\Rainbowlisht\bin\Debug\UnityEngine.InputLegacyModule.dll
+C:\Users\brave\Documents\GitHub\Pulsar-Plugins\Rainbowlisht\bin\Debug\UnityEngine.ParticleSystemModule.dll
+C:\Users\brave\Documents\GitHub\Pulsar-Plugins\Rainbowlisht\bin\Debug\ACTk.Runtime.dll
+C:\Users\brave\Documents\GitHub\Pulsar-Plugins\Rainbowlisht\bin\Debug\PLInputBase.dll
+C:\Users\brave\Documents\GitHub\Pulsar-Plugins\Rainbowlisht\bin\Debug\UnityEngine.VRModule.dll
+C:\Users\brave\Documents\GitHub\Pulsar-Plugins\Rainbowlisht\obj\Debug\Rainbowlisht.csprojAssemblyReference.cache
+C:\Users\brave\Documents\GitHub\Pulsar-Plugins\Rainbowlisht\obj\Debug\Rainbowlisht.csproj.CoreCompileInputs.cache
+C:\Users\brave\Documents\GitHub\Pulsar-Plugins\Rainbowlisht\obj\Debug\Rainbowlisht.csproj.CopyComplete
+C:\Users\brave\Documents\GitHub\Pulsar-Plugins\Rainbowlisht\obj\Debug\Rainbowlisht.dll
+C:\Users\brave\Documents\GitHub\Pulsar-Plugins\Rainbowlisht\obj\Debug\Rainbowlisht.pdb
